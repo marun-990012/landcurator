@@ -12,7 +12,7 @@ function FooterSubscribeSection() {
           Subscribe to get updates on our latest offers and updates
         </h2>
 
-        {/* Input + Button */}
+        
         <form className="flex w-full max-w-120 bg-white rounded-full overflow-hidden border border-black p-1">
           <input
             type="email"

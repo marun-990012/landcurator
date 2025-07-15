@@ -43,7 +43,7 @@ function FooterContent() {
     <div className="bg-gray-100 p-6 sm:p-10">
       {/* Top Section */}
       <div className="max-w-7xl mx-auto flex flex-col lg:flex-row justify-between gap-10">
-        {/* Logo + Text */}
+        
         <div className="flex-1">
           <img src={logo} alt="logo" className="w-28 mb-4" />
           <p className="text-gray-700 max-w-sm">
@@ -51,7 +51,7 @@ function FooterContent() {
           </p>
         </div>
 
-        {/* Column Section using flex-wrap */}
+        
         <div className="flex flex-wrap gap-6 flex-[2]">
           {footerColumns.map((col, index) => (
             <div key={index} className="min-w-[130px]">

@@ -1,49 +1,4 @@
-// // ImageSlider.jsx
-// import { Swiper, SwiperSlide } from 'swiper/react';
-// import { Autoplay, Pagination, Navigation } from 'swiper/modules';
-// import 'swiper/css';
-// import 'swiper/css/pagination';
-// import 'swiper/css/navigation';
-// import location1 from '../assets/location1.jpg';
-// import location2 from '../assets/location2.jpg';
-// import location3 from '../assets/location3.jpg';
-// import location4 from '../assets/location4.jpg';
 
-// const images = [
-//   location1,
-//   location2,
-//   location3,
-//   location4
-// ];
-
-// export default function ImageSlider() {
-//   return (
-//     <div className="w-full max-w-7xl mx-auto mt-8">
-//       <Swiper
-//         spaceBetween={30}
-//         centeredSlides={true}
-//         autoplay={{
-//           delay: 2500,
-//           disableOnInteraction: false,
-//         }}
-//         loop={true}
-//         pagination={{ clickable: true }}
-//         navigation={true}
-//         modules={[Autoplay, Pagination, Navigation]}
-//         className="rounded-lg overflow-hidden"
-//       >
-//         {images.map((url, index) => (
-//           <SwiperSlide key={index}>
-//             <img src={url} alt={`slide-${index}`} className="w-full h-[400px] object-cover" />
-//           </SwiperSlide>
-//         ))}
-//       </Swiper>
-//     </div>
-//   );
-// }
-
-
-// PropertySlider.jsx
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay } from "swiper/modules";
 import "swiper/css";

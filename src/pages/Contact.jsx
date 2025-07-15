@@ -1,29 +1,3 @@
-// import ContactForm from "./ContactForm";
-// import ContactLocation from "./ContactLocation";
-// function Contact(){
-//     return(
-//         <div className="mt-10 p-20 ">
-//             <div>
-//                 <h1 className="text-4xl font-semibold">Get In Touch</h1>
-//                 <p className="mt-5"><span className="text-gray-500">You can reach via mail</span> {`>>>`} support@arkbridgeintegrated.com</p>
-//             </div>
-//              <div className="mt-5">
-//                 <div className="flex justify-between w-full">
-//                 <div >
-//                     <ContactForm/>
-//                 </div>
-
-//                 <div>
-//                     <ContactLocation/>
-//                 </div>
-//             </div>
-//              </div>
-//         </div>
-//     )
-// }
-// export default Contact;
-
-
 
 import ContactForm from "./ContactForm";
 import ContactLocation from "./ContactLocation";
