@@ -137,7 +137,7 @@ function PropertyDetails() {
         <GetInTouch/>
       </div> */}
 
-      <div className="mt-10 w-[380px] sm:w-[600px]">
+      <div className="mt-10 w-[360px] sm:w-[600px]">
   <GetInTouch />
 </div>
 
