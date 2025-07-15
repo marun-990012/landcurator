@@ -20,11 +20,12 @@ function FooterSubscribeSection() {
             className="flex-grow px-5 py-1 text-black outline-none text-sm rounded-l-full"
           />
           <button
-            type="submit"
-            className="bg-[#CDFF00] px-6 py-1 border border-black text-black font-semibold rounded-full hover:bg-lime-300 transition"
-          >
-            Submit
-          </button>
+  type="submit"
+  className="bg-[#CDFF00] px-3 sm:px-6 py-1 border border-black text-black font-semibold rounded-full hover:bg-lime-300 transition"
+>
+  Submit
+</button>
+
         </form>
       </div>
     </div>

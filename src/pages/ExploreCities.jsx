@@ -7,7 +7,7 @@ function ExploreCities() {
   const navigate = useNavigate();
 
   return (
-    <div className="mx-10 mt-8">
+    <div className="px-3 mt-8">
       <span className="bg-[#e7f4ec] text-green-700 px-3 py-1 rounded-full text-[12px] font-medium">
         EXPLORE CITIES
       </span>

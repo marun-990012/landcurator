@@ -114,7 +114,7 @@ const features = [
 
 function OurServices() {
   return (
-    <div className="bg-green-800 w-full mt-10 px-6 py-10">
+    <div className="bg-green-800 w-full mt-10 px-6 py-10 rounded">
       <div className="max-w-7xl mx-auto flex flex-col-reverse md:flex-row gap-10 items-center md:items-start">
         {/* Image - shown below content on mobile */}
         <div className="w-full md:w-1/2">

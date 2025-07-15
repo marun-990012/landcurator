@@ -5,7 +5,7 @@ import blogData from '../assets/Blogs.json';
 function BlogList() {
     const navigate = useNavigate();
   return (
-    <div className="p-6 max-w-7xl mx-auto">
+    <div className="p-2 max-w-7xl mx-auto mt-5">
         <div className="w-full mb-5">
             <form action="">
                 <div className="flex w-full flex justify-center items-center border-2 border-gray-200 rounded-[7px]">

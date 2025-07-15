@@ -20,7 +20,7 @@ export default function TestimonialSlider() {
         </h1>
 
         <div className="mx-7">
-          <div className="py-10 px-4">
+          <div className="py-10">
             {/* Scrollable container */}
             <div className="flex gap-4 overflow-x-auto no-scrollbar scrollbar-hide pb-4">
               {testimonials.map((testimonial, index) => (

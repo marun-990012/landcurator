@@ -1,7 +1,7 @@
 import BlogList from "./BlogList";
 function Blog() {
   return (
-    <div className="mt-15 p-10">
+    <div className="mt-20 p-6">
   <div
     className="bg-cover bg-center rounded-2xl text-white p-10"
     style={{

@@ -29,8 +29,8 @@ function PropertyDetails() {
   };
 
   return (
-    <div className="mt-15 ">
-      <div className="p-10 md:p-10">
+    <div className="mt-20 ">
+      <div className="p-6 md:p-10">
       {/* IMAGE SECTION */}
 <div className="bg-gray-200 p-4 rounded-lg">
   {/* Small screens: show single image with overlay */}
@@ -125,7 +125,7 @@ function PropertyDetails() {
         <FrequentlyAskedQuestions/>
       </div>
 
-      <div className="mt-10 w-[430px] sm:w-[700px]">
+      <div className="mt-10 w-[360px] sm:w-[600px]">
          <ContactLocation/>
       </div>
 
@@ -137,7 +137,7 @@ function PropertyDetails() {
         <GetInTouch/>
       </div> */}
 
-      <div className="mt-10 w-[430px] sm:w-[700px]">
+      <div className="mt-10 w-[380px] sm:w-[600px]">
   <GetInTouch />
 </div>
 

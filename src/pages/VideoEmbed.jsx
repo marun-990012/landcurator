@@ -32,7 +32,7 @@ const VideoEmbed = () => {
           </div>
 
           {/* Caption */}
-          <div className="absolute bottom-20 left-0 w-full text-center text-white px-4">
+          <div className="absolute bottom-5 sm:bottom-20 left-0 w-full text-center text-white px-4">
             <h2 className="text-2xl font-bold">Our land transformation</h2>
             <p className="text-sm mt-1">
               How we transform the Future of Africa's with CareerLeap’s MBA/MSc Study Abroad Program

@@ -28,7 +28,7 @@ export default function MenuBar() {
     >
       <div className="max-w-6xl mx-auto flex items-center justify-between">
         {/* Logo */}
-        <Link to="/" className="flex items-center">
+        <Link to="/" onClick={() => setMenuOpen(false)} className="flex items-center">
           <img
             src={logo}
             alt="logo"
