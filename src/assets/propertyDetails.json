@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1,
+    "title": "Property #1",
+    "price": "$900 p/acre",
+    "location": "El Paso, Texas",
+    "size": "2 ACRES",
+    "images": [
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "https://images.unsplash.com/photo-1491553895911-0055eca6402d"
+    ],
+    "propertySpecifications": [
+      {
+        "label": "Parcel size",
+        "value": "5.4 Acres",
+        "icon": "Scan"
+      },
+      {
+        "label": "Location",
+        "value": "Odessa, Texas",
+        "icon": "MapPin"
+      },
+      {
+        "label": "Parcel number",
+        "value": "00117-0017",
+        "icon": ""
+      },
+      {
+        "label": "Zip code",
+        "value": "7927",
+        "icon": "FileDigit"
+      },
+      {
+        "label": "Elevation",
+        "value": "770 ft",
+        "icon": "Workflow"
+      },
+      {
+        "label": "Access",
+        "value": "Dirt Road",
+        "icon": "ChartSpline"
+      }
+    ],
+    "description": [
+      "Property #1 is located in the scenic area of El Paso, Texas.",
+      "Ideal for off-grid living, vacation cabin, or investment.",
+      "Surrounded by nature, lakes, and hiking trails.",
+      "Electricity and paved access available nearby."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Property #2",
+    "price": "$950 p/acre",
+    "location": "Flagstaff, Arizona",
+    "size": "3 ACRES",
+    "images": [
+      "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa",
+      "https://images.unsplash.com/photo-1465311444082-b6c1f7bba295",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    ],
+    "propertySpecifications": [
+      {
+        "label": "Parcel size",
+        "value": "5.4 Acres",
+        "icon": "Scan"
+      },
+      {
+        "label": "Location",
+        "value": "Odessa, Texas",
+        "icon": "MapPin"
+      },
+      {
+        "label": "Parcel number",
+        "value": "00117-0017",
+        "icon": ""
+      },
+      {
+        "label": "Zip code",
+        "value": "7927",
+        "icon": "FileDigit"
+      },
+      {
+        "label": "Elevation",
+        "value": "770 ft",
+        "icon": "Workflow"
+      },
+      {
+        "label": "Access",
+        "value": "Dirt Road",
+        "icon": "ChartSpline"
+      }
+    ],
+    "description": [
+      "Property #2 is located in the scenic area of Flagstaff, Arizona.",
+      "Ideal for off-grid living, vacation cabin, or investment.",
+      "Surrounded by nature, lakes, and hiking trails.",
+      "Electricity and paved access available nearby."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Property #3",
+    "price": "$1000 p/acre",
+    "location": "Reno, Nevada",
+    "size": "4 ACRES",
+    "images": [
+      "https://images.unsplash.com/photo-1470770841072-8488e5c1b93d",
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "https://images.unsplash.com/photo-1470770841072-f978cf4d019e"
+    ],
+    "propertySpecifications": [
+      {
+        "label": "Parcel size",
+        "value": "5.4 Acres",
+        "icon": "Scan"
+      },
+      {
+        "label": "Location",
+        "value": "Odessa, Texas",
+        "icon": "MapPin"
+      },
+      {
+        "label": "Parcel number",
+        "value": "00117-0017",
+        "icon": ""
+      },
+      {
+        "label": "Zip code",
+        "value": "7927",
+        "icon": "FileDigit"
+      },
+      {
+        "label": "Elevation",
+        "value": "770 ft",
+        "icon": "Workflow"
+      },
+      {
+        "label": "Access",
+        "value": "Dirt Road",
+        "icon": "ChartSpline"
+      }
+    ],
+    "description": [
+      "Property #3 is located in the scenic area of Reno, Nevada.",
+      "Ideal for off-grid living, vacation cabin, or investment.",
+      "Surrounded by nature, lakes, and hiking trails.",
+      "Electricity and paved access available nearby."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Property #4",
+    "price": "$1050 p/acre",
+    "location": "Boise, Idaho",
+    "size": "2 ACRES",
+    "images": [
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "https://images.unsplash.com/photo-1491553895911-0055eca6402d"
+    ],
+    "propertySpecifications": [
+      {
+        "label": "Parcel size",
+        "value": "5.4 Acres",
+        "icon": "Scan"
+      },
+      {
+        "label": "Location",
+        "value": "Odessa, Texas",
+        "icon": "MapPin"
+      },
+      {
+        "label": "Parcel number",
+        "value": "00117-0017",
+        "icon": ""
+      },
+      {
+        "label": "Zip code",
+        "value": "7927",
+        "icon": "FileDigit"
+      },
+      {
+        "label": "Elevation",
+        "value": "770 ft",
+        "icon": "Workflow"
+      },
+      {
+        "label": "Access",
+        "value": "Dirt Road",
+        "icon": "ChartSpline"
+      }
+    ],
+    "description": [
+      "Property #4 is located in the scenic area of Boise, Idaho.",
+      "Ideal for off-grid living, vacation cabin, or investment.",
+      "Surrounded by nature, lakes, and hiking trails.",
+      "Electricity and paved access available nearby."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Property #5",
+    "price": "$1100 p/acre",
+    "location": "Boulder, Colorado",
+    "size": "3 ACRES",
+    "images": [
+      "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa",
+      "https://images.unsplash.com/photo-1465311444082-b6c1f7bba295",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    ],
+    "propertySpecifications": [
+      {
+        "label": "Parcel size",
+        "value": "5.4 Acres",
+        "icon": "Scan"
+      },
+      {
+        "label": "Location",
+        "value": "Odessa, Texas",
+        "icon": "MapPin"
+      },
+      {
+        "label": "Parcel number",
+        "value": "00117-0017",
+        "icon": ""
+      },
+      {
+        "label": "Zip code",
+        "value": "7927",
+        "icon": "FileDigit"
+      },
+      {
+        "label": "Elevation",
+        "value": "770 ft",
+        "icon": "Workflow"
+      },
+      {
+        "label": "Access",
+        "value": "Dirt Road",
+        "icon": "ChartSpline"
+      }
+    ],
+    "description": [
+      "Property #5 is located in the scenic area of Boulder, Colorado.",
+      "Ideal for off-grid living, vacation cabin, or investment.",
+      "Surrounded by nature, lakes, and hiking trails.",
+      "Electricity and paved access available nearby."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Property #6",
+    "price": "$1150 p/acre",
+    "location": "Santa Fe, New Mexico",
+    "size": "4 ACRES",
+    "images": [
+      "https://images.unsplash.com/photo-1470770841072-8488e5c1b93d",
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "https://images.unsplash.com/photo-1470770841072-f978cf4d019e"
+    ],
+    "propertySpecifications": [
+      {
+        "label": "Parcel size",
+        "value": "5.4 Acres",
+        "icon": "Scan"
+      },
+      {
+        "label": "Location",
+        "value": "Odessa, Texas",
+        "icon": "MapPin"
+      },
+      {
+        "label": "Parcel number",
+        "value": "00117-0017",
+        "icon": ""
+      },
+      {
+        "label": "Zip code",
+        "value": "7927",
+        "icon": "FileDigit"
+      },
+      {
+        "label": "Elevation",
+        "value": "770 ft",
+        "icon": "Workflow"
+      },
+      {
+        "label": "Access",
+        "value": "Dirt Road",
+        "icon": "ChartSpline"
+      }
+    ],
+    "description": [
+      "Property #6 is located in the scenic area of Santa Fe, New Mexico.",
+      "Ideal for off-grid living, vacation cabin, or investment.",
+      "Surrounded by nature, lakes, and hiking trails.",
+      "Electricity and paved access available nearby."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Property #7",
+    "price": "$1200 p/acre",
+    "location": "Tucson, Arizona",
+    "size": "2 ACRES",
+    "images": [
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "https://images.unsplash.com/photo-1491553895911-0055eca6402d"
+    ],
+    "propertySpecifications": [
+      {
+        "label": "Parcel size",
+        "value": "5.4 Acres",
+        "icon": "Scan"
+      },
+      {
+        "label": "Location",
+        "value": "Odessa, Texas",
+        "icon": "MapPin"
+      },
+      {
+        "label": "Parcel number",
+        "value": "00117-0017",
+        "icon": ""
+      },
+      {
+        "label": "Zip code",
+        "value": "7927",
+        "icon": "FileDigit"
+      },
+      {
+        "label": "Elevation",
+        "value": "770 ft",
+        "icon": "Workflow"
+      },
+      {
+        "label": "Access",
+        "value": "Dirt Road",
+        "icon": "ChartSpline"
+      }
+    ],
+    "description": [
+      "Property #7 is located in the scenic area of Tucson, Arizona.",
+      "Ideal for off-grid living, vacation cabin, or investment.",
+      "Surrounded by nature, lakes, and hiking trails.",
+      "Electricity and paved access available nearby."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Property #8",
+    "price": "$1250 p/acre",
+    "location": "Durango, Colorado",
+    "size": "3 ACRES",
+    "images": [
+      "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa",
+      "https://images.unsplash.com/photo-1465311444082-b6c1f7bba295",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    ],
+    "propertySpecifications": [
+      {
+        "label": "Parcel size",
+        "value": "5.4 Acres",
+        "icon": "Scan"
+      },
+      {
+        "label": "Location",
+        "value": "Odessa, Texas",
+        "icon": "MapPin"
+      },
+      {
+        "label": "Parcel number",
+        "value": "00117-0017",
+        "icon": ""
+      },
+      {
+        "label": "Zip code",
+        "value": "7927",
+        "icon": "FileDigit"
+      },
+      {
+        "label": "Elevation",
+        "value": "770 ft",
+        "icon": "Workflow"
+      },
+      {
+        "label": "Access",
+        "value": "Dirt Road",
+        "icon": "ChartSpline"
+      }
+    ],
+    "description": [
+      "Property #8 is located in the scenic area of Durango, Colorado.",
+      "Ideal for off-grid living, vacation cabin, or investment.",
+      "Surrounded by nature, lakes, and hiking trails.",
+      "Electricity and paved access available nearby."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Property #9",
+    "price": "$1300 p/acre",
+    "location": "Eugene, Oregon",
+    "size": "4 ACRES",
+    "images": [
+      "https://images.unsplash.com/photo-1470770841072-8488e5c1b93d",
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "https://images.unsplash.com/photo-1470770841072-f978cf4d019e"
+    ],
+    "propertySpecifications": [
+      {
+        "label": "Parcel size",
+        "value": "5.4 Acres",
+        "icon": "Scan"
+      },
+      {
+        "label": "Location",
+        "value": "Odessa, Texas",
+        "icon": "MapPin"
+      },
+      {
+        "label": "Parcel number",
+        "value": "00117-0017",
+        "icon": ""
+      },
+      {
+        "label": "Zip code",
+        "value": "7927",
+        "icon": "FileDigit"
+      },
+      {
+        "label": "Elevation",
+        "value": "770 ft",
+        "icon": "Workflow"
+      },
+      {
+        "label": "Access",
+        "value": "Dirt Road",
+        "icon": "ChartSpline"
+      }
+    ],
+    "description": [
+      "Property #9 is located in the scenic area of Eugene, Oregon.",
+      "Ideal for off-grid living, vacation cabin, or investment.",
+      "Surrounded by nature, lakes, and hiking trails.",
+      "Electricity and paved access available nearby."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Property #10",
+    "price": "$1350 p/acre",
+    "location": "Bend, Oregon",
+    "size": "2 ACRES",
+    "images": [
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "https://images.unsplash.com/photo-1491553895911-0055eca6402d"
+    ],
+    "propertySpecifications": [
+      {
+        "label": "Parcel size",
+        "value": "5.4 Acres",
+        "icon": "Scan"
+      },
+      {
+        "label": "Location",
+        "value": "Odessa, Texas",
+        "icon": "MapPin"
+      },
+      {
+        "label": "Parcel number",
+        "value": "00117-0017",
+        "icon": ""
+      },
+      {
+        "label": "Zip code",
+        "value": "7927",
+        "icon": "FileDigit"
+      },
+      {
+        "label": "Elevation",
+        "value": "770 ft",
+        "icon": "Workflow"
+      },
+      {
+        "label": "Access",
+        "value": "Dirt Road",
+        "icon": "ChartSpline"
+      }
+    ],
+    "description": [
+      "Property #10 is located in the scenic area of Bend, Oregon.",
+      "Ideal for off-grid living, vacation cabin, or investment.",
+      "Surrounded by nature, lakes, and hiking trails.",
+      "Electricity and paved access available nearby."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Property #11",
+    "price": "$1400 p/acre",
+    "location": "Missoula, Montana",
+    "size": "3 ACRES",
+    "images": [
+      "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa",
+      "https://images.unsplash.com/photo-1465311444082-b6c1f7bba295",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    ],
+    "propertySpecifications": [
+      {
+        "label": "Parcel size",
+        "value": "5.4 Acres",
+        "icon": "Scan"
+      },
+      {
+        "label": "Location",
+        "value": "Odessa, Texas",
+        "icon": "MapPin"
+      },
+      {
+        "label": "Parcel number",
+        "value": "00117-0017",
+        "icon": ""
+      },
+      {
+        "label": "Zip code",
+        "value": "7927",
+        "icon": "FileDigit"
+      },
+      {
+        "label": "Elevation",
+        "value": "770 ft",
+        "icon": "Workflow"
+      },
+      {
+        "label": "Access",
+        "value": "Dirt Road",
+        "icon": "ChartSpline"
+      }
+    ],
+    "description": [
+      "Property #11 is located in the scenic area of Missoula, Montana.",
+      "Ideal for off-grid living, vacation cabin, or investment.",
+      "Surrounded by nature, lakes, and hiking trails.",
+      "Electricity and paved access available nearby."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Property #12",
+    "price": "$1450 p/acre",
+    "location": "Helena, Montana",
+    "size": "4 ACRES",
+    "images": [
+      "https://images.unsplash.com/photo-1470770841072-8488e5c1b93d",
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "https://images.unsplash.com/photo-1470770841072-f978cf4d019e"
+    ],
+    "propertySpecifications": [
+      {
+        "label": "Parcel size",
+        "value": "5.4 Acres",
+        "icon": "Scan"
+      },
+      {
+        "label": "Location",
+        "value": "Odessa, Texas",
+        "icon": "MapPin"
+      },
+      {
+        "label": "Parcel number",
+        "value": "00117-0017",
+        "icon": ""
+      },
+      {
+        "label": "Zip code",
+        "value": "7927",
+        "icon": "FileDigit"
+      },
+      {
+        "label": "Elevation",
+        "value": "770 ft",
+        "icon": "Workflow"
+      },
+      {
+        "label": "Access",
+        "value": "Dirt Road",
+        "icon": "ChartSpline"
+      }
+    ],
+    "description": [
+      "Property #12 is located in the scenic area of Helena, Montana.",
+      "Ideal for off-grid living, vacation cabin, or investment.",
+      "Surrounded by nature, lakes, and hiking trails.",
+      "Electricity and paved access available nearby."
+    ]
+  }
+]

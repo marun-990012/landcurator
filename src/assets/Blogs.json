@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Canalside Innovation in Urban Planning",
+    "description": "How modern waterfront development is reshaping city living with green public spaces.",
+    "date": "July 14, 2025",
+    "image": "https://picsum.photos/id/1011/600/400"
+  },
+  {
+    "id": 2,
+    "title": "Beachfront Financing Tips for Homebuyers",
+    "description": "Expert strategies to make beachfront property investments more affordable.",
+    "date": "July 13, 2025",
+    "image": "https://picsum.photos/id/1012/600/400"
+  },
+  {
+    "id": 3,
+    "title": "Rustic Cottage Renovation Ideas",
+    "description": "Creative renovations you can use for rustic-style homes in countryside settings.",
+    "date": "July 12, 2025",
+    "image": "https://picsum.photos/id/1013/600/400"
+  },
+  {
+    "id": 4,
+    "title": "Tuscan Hillside Property Insights",
+    "description": "What buyers need to know about investing in rolling countryside real estate.",
+    "date": "July 11, 2025",
+    "image": "https://picsum.photos/id/1015/600/400"
+  },
+  {
+    "id": 5,
+    "title": "Forest Cabin: From Vision to Reality",
+    "description": "A guide to purchasing woodland plots and designing your dream forest retreat.",
+    "date": "July 10, 2025",
+    "image": "https://picsum.photos/id/1016/600/400"
+  },
+  {
+    "id": 6,
+    "title": "Palm Paradise: Tropical Real Estate Trends",
+    "description": "Why tropical properties are booming—and how to invest wisely in them.",
+    "date": "July 9, 2025",
+    "image": "https://picsum.photos/id/1020/600/400"
+  },
+  {
+    "id": 7,
+    "title": "Mountain Valley Investment Strategies",
+    "description": "Securing mountain-view properties with rental and resale potential.",
+    "date": "July 8, 2025",
+    "image": "https://picsum.photos/id/1024/600/400"
+  },
+  {
+    "id": 8,
+    "title": "Snow Cabin Design in Arctic Climates",
+    "description": "Tips for insulation, layout, and building codes in snowy regions.",
+    "date": "July 7, 2025",
+    "image": "https://picsum.photos/id/1033/600/400"
+  },
+  {
+    "id": 9,
+    "title": "Luxury Living Near Yosemite",
+    "description": "Sustainable and high-end residential design adjacent to national parks.",
+    "date": "July 6, 2025",
+    "image": "https://picsum.photos/id/1040/600/400"
+  },
+  {
+    "id": 10,
+    "title": "Oregon Forest Retreat Investing",
+    "description": "Why Oregon's forests are ideal locations for homesteads and rental properties.",
+    "date": "July 5, 2025",
+    "image": "https://picsum.photos/id/1050/600/400"
+  },
+  {
+    "id": 11,
+    "title": "New Zealand Lakeside Living Guide",
+    "description": "Key factors to consider when buying and building beside serene lakes.",
+    "date": "July 4, 2025",
+    "image": "https://picsum.photos/id/1060/600/400"
+  },
+  {
+    "id": 12,
+    "title": "Arizona Desert Home Essentials",
+    "description": "Understand water rights, soil conditions, and eco-builds in the desert.",
+    "date": "July 3, 2025",
+    "image": "https://picsum.photos/id/1070/600/400"
+  }
+]
