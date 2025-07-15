@@ -7,9 +7,11 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import PropertyDetails from './pages/PropertyDetails';
 import BlogDetails from './pages/BlogDetails';
+import ScrollToTop from './pages/ScrollToTop';
 function App() {
   return (
    <div>
+    <ScrollToTop />
     <Routes>
       <Route element={<Layout />}>
           <Route path='/' element={<Home/>}/>

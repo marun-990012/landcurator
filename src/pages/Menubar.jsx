@@ -42,7 +42,7 @@ export default function MenuBar() {
 
         {/* Desktop Nav */}
         <div className={`hidden sm:flex space-x-6 transition-colors duration-300 ${isTransparent ? "text-white hover:" : "text-gray-600"}`}>
-          <Link to="/properties" className={`${isTransparent ? "text-white hover:bg-gray-600 hover:text-white px-3 py-1 rounded" : "text-gray-600 hover:text-black  hover:bg-gray-100 px-3 py-1 rounded"}`}>Properties</Link>
+          <Link to="/properties"  className={`${isTransparent ? "text-white hover:bg-gray-600 hover:text-white px-3 py-1 rounded" : "text-gray-600 hover:text-black  hover:bg-gray-100 px-3 py-1 rounded"}`}>Properties</Link>
           <Link to="/blog" className={`${isTransparent ? "text-white hover:bg-gray-600 hover:text-white px-3 py-1 rounded" : "text-gray-600 hover:text-black  hover:bg-gray-100 px-3 py-1 rounded"}`}>Blog</Link>
           <Link to="/about" className={`${isTransparent ? "text-white hover:bg-gray-600 hover:text-white px-3 py-1 rounded" : "text-gray-600 hover:text-black  hover:bg-gray-100 px-3 py-1 rounded"}`}>About</Link>
           <Link to="/contact" className={`${isTransparent ? "text-white hover:bg-gray-600 hover:text-white px-3 py-1 rounded" : "text-gray-600 hover:text-black  hover:bg-gray-100 px-3 py-1 rounded "}`}>Contact</Link>
@@ -70,9 +70,9 @@ export default function MenuBar() {
 
       {/* Mobile Menu Panel */}
       {menuOpen && (
-        <div className={`sm:hidden mt-4 space-y-4 px-4 transition-colors duration-300 ${isTransparent ? "text-white" : "text-gray-700"}`}>
+        <div className={`bg-white p-5 sm:hidden mt-4 space-y-4 px-4 transition-colors duration-300 text-gray-700`}>
           {["Properties", "Blog", "About", "Contact"].map((t) => (
-            <Link key={t} to={`/${t.toLowerCase()}`} className="block px-4 py-2 rounded hover:bg-gray-100">
+            <Link onClick={() => setMenuOpen(false)} key={t} to={`/${t.toLowerCase()}`} className="block px-4 py-2 rounded hover:bg-gray-100">
               {t}
             </Link>
           ))}
