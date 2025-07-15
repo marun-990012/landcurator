@@ -96,7 +96,7 @@
 
 function GetInTouch() {
   return (
-    <div className="px-4 md:px-0">
+    <div className="md:px-0">
       <h3 className="text-xl font-medium mb-4">Get In Touch</h3>
 
       <div className="bg-gray-100 p-6 md:p-8 border border-gray-200 rounded-[8px]">
