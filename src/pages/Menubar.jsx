@@ -41,11 +41,11 @@ export default function MenuBar() {
         </Link>
 
         {/* Desktop Nav */}
-        <div className={`hidden sm:flex space-x-6 transition-colors duration-300 ${isTransparent ? "text-white" : "text-gray-600"}`}>
-          <Link to="/properties" className="hover:text-primary">Properties</Link>
-          <Link to="/blog" className="hover:text-primary">Blog</Link>
-          <Link to="/about" className="hover:text-primary">About</Link>
-          <Link to="/contact" className="hover:text-primary">Contact</Link>
+        <div className={`hidden sm:flex space-x-6 transition-colors duration-300 ${isTransparent ? "text-white hover:" : "text-gray-600"}`}>
+          <Link to="/properties" className={`${isTransparent ? "text-white hover:bg-gray-600 hover:text-white px-3 py-1 rounded" : "text-gray-600 hover:text-black  hover:bg-gray-100 px-3 py-1 rounded"}`}>Properties</Link>
+          <Link to="/blog" className={`${isTransparent ? "text-white hover:bg-gray-600 hover:text-white px-3 py-1 rounded" : "text-gray-600 hover:text-black  hover:bg-gray-100 px-3 py-1 rounded"}`}>Blog</Link>
+          <Link to="/about" className={`${isTransparent ? "text-white hover:bg-gray-600 hover:text-white px-3 py-1 rounded" : "text-gray-600 hover:text-black  hover:bg-gray-100 px-3 py-1 rounded"}`}>About</Link>
+          <Link to="/contact" className={`${isTransparent ? "text-white hover:bg-gray-600 hover:text-white px-3 py-1 rounded" : "text-gray-600 hover:text-black  hover:bg-gray-100 px-3 py-1 rounded "}`}>Contact</Link>
         </div>
 
         {/* Get in Touch Button (Desktop) */}
